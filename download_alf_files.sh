@@ -12,7 +12,7 @@ PASSWORD="$2"
 INPUT="$3"
 HOST="cms.lifeway.com"
 ALF_SERVICE_URL="https://${USERNAME}:${PASSWORD}@${HOST}/alfresco/service/"
-DOWNLOADED_FILE_FOLDER="$HOME/Desktop/bibleTeach_VBS"
+DOWNLOADED_FILE_FOLDER="$HOME/Desktop/BI_images"
 
 # Create download directory
 mkdir -p "$DOWNLOADED_FILE_FOLDER"
